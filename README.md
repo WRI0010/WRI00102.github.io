@@ -1,39 +1,60 @@
-theme: jekyll-theme-caymaxn
-title: Welcome to my homepage
-description: This is my homepage!
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Rosy's Jewellery</title>
+<link rel="stylesheet" type="text/css" href="CSS/Stylesheet.css">
 
-You can use the [editor on GitHub](https://github.com/WRI0010/WRI00102.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+<div class="wrapper">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <div class="top">
+        <!--Background set in CSS-->
+    </div><!--  end of top-->
 
-```markdown
-Syntax highlighted code block
+    <div class="menu">
+        <h1>Rosy's Jewellery</h1>                   
+        <ul id="nav">       
+        <li><a href=""> Home            </a></li>
+        <li><a href=""> Jewellery       </a></li>
+        <li><a href=""> Locations       </a></li>
+        <li><a href=""> Contact Us      </a></li>
+        <li><a href=""> Reviews         </a></li>
+        </ul>       
+    </div>
+    <!-- end of menu -->
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+  <div class="main">
+        <p> Welcome to Rosy's Jewellery </p>
+              <img src="Images/1.png">
 
-1. Numbered
-2. List
+              <img src="Images/2.png">
 
-**Bold** and _Italic_ and `Code` text
+              <img src="Images/3.png">
 
-[Link](url) and ![Image](src)
-```
+              <img src="Images/4.png">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+              <img src="Images/5.png">
 
-### Jekyll Themes
+              <img src="Images/6.png">  </div>
+<!--close main-->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WRI0010/WRI00102.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div class="footer">
+    <ul id="footer">
+        <li> <img src="Images/facebook.png" /> 
+        <img src="Images/twitter.png" />  </li>
+        <li> Twitter Address</li>
+        <li> Addres, Address, Address, Address </li>        
+        <li> Telephone Number</li>
+    </ul>
+</div> 
+<!--end of footer--> 
+</div>
+</body>
+</html>
