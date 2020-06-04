@@ -1,60 +1,35 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title> Rosy's Jewellery</title>
-<link rel="stylesheet" type="text/css" href="CSS/Stylesheet.css">
-
+	<title>Ollie Bike Sharing</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
-
 <body>
+	<h1>SITE STRUCTURE
+Anatomy of an HTML Element
+Let’s explore the basic anatomy of an HTML element. Line 9 of index.html contains a heading element:
 
-<div class="wrapper">
+You're Building a Website!
+All HTML elements begin with an opening tag. In this case, the opening tag is.
 
-    <div class="top">
-        <!--Background set in CSS-->
-    </div><!--  end of top-->
+Most elements require a closing tag, denoted by a /. In this case, the closing tag is.
 
-    <div class="menu">
-        <h1>Rosy's Jewellery</h1>                   
-        <ul id="nav">       
-        <li><a href=""> Home            </a></li>
-        <li><a href=""> Jewellery       </a></li>
-        <li><a href=""> Locations       </a></li>
-        <li><a href=""> Contact Us      </a></li>
-        <li><a href=""> Reviews         </a></li>
-        </ul>       
-    </div>
-    <!-- end of menu -->
+The website user only sees the content between the opening and closing tags.
+Note: There are several other HTML elements in index.html in addition to the heading element. Don’t be alarmed! We will encounter most of these in more depth during the lesson.
 
+Instructions
+1.
+In index.html, change the text that appears between the opening tag and the closing tag.
 
-  <div class="main">
-        <p> Welcome to Rosy's Jewellery </p>
-              <img src="Images/1.png">
+Run your code to see the new text shown in the web browser!
 
-              <img src="Images/2.png">
+Community Forums
+Here are some helpful links to the top questions asked by coders about this exercise:
 
-              <img src="Images/3.png">
+Why can’t I see the title of the website?
+Still have questions? View this exercise's thread in the Codecademy Forums
 
-              <img src="Images/4.png">
-
-              <img src="Images/5.png">
-
-              <img src="Images/6.png">  </div>
-<!--close main-->
-
-
-
-<div class="footer">
-    <ul id="footer">
-        <li> <img src="Images/facebook.png" /> 
-        <img src="Images/twitter.png" />  </li>
-        <li> Twitter Address</li>
-        <li> Addres, Address, Address, Address </li>        
-        <li> Telephone Number</li>
-    </ul>
-</div> 
-<!--end of footer--> 
-</div>
+</h1>
 </body>
 </html>
